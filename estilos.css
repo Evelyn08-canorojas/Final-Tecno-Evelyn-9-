@@ -1,0 +1,48 @@
+body{
+	background-color: #E8C3FF;
+}
+.ban{
+	position: absolute;
+	top: 1%;
+	left: 4%;
+}
+.cod{
+	position: absolute;
+	top: 50%;
+	left: 22%;
+}
+.im1{
+	position: absolute;
+	top: 71%;
+	left: 17%; 
+}
+.im2{
+	position: absolute;
+	top: 160%;
+	left: 17.5%; 
+}
+.im3{
+	position: absolute;
+	top: 250%;
+	left: 17.5%; 
+}
+.im4{
+	position: absolute;
+	top: 340%;
+	left: 10%;
+}
+.im5{
+	position: absolute;
+	top: 430%;
+	left: 10%;
+}
+.co{
+	position: absolute;
+	top: 490%;
+	left: 16%;
+}
+.com{
+	position: absolute;
+	top: 517%;
+	left: 1%;
+}
